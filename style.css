@@ -1,0 +1,384 @@
+.slide-home,
+.slide-home * {
+  box-sizing: border-box;
+}
+.slide-home {
+  background: #ffffff;
+  width: 1920px;
+  height: 2289px;
+  position: relative;
+  overflow-x: auto;
+}
+.rectangle-1 {
+  border-radius: 0px;
+  width: 1710px;
+  height: 134px;
+  position: absolute;
+  left: calc(50% - 855px);
+  top: calc(50% - 1088.5px);
+  overflow: visible;
+}
+.group-11 {
+  position: absolute;
+  inset: 0;
+}
+.group-4 {
+  width: 347px;
+  height: 89px;
+  position: static;
+}
+.rectangle-2 {
+  border-radius: 0px;
+  width: 347px;
+  height: 89px;
+  position: absolute;
+  left: calc(50% - 829px);
+  top: calc(50% - 297.5px);
+  overflow: visible;
+}
+.start-course {
+  color: #ffffff;
+  text-align: left;
+  font: 600 32px "Inter-SemiBold", sans-serif;
+  position: absolute;
+  left: 206px;
+  top: 872px;
+}
+.group-5 {
+  width: 347px;
+  height: 89px;
+  position: static;
+}
+.rectangle-22 {
+  border-radius: 0px;
+  width: 347px;
+  height: 89px;
+  position: absolute;
+  left: calc(50% - 417px);
+  top: calc(50% - 297.5px);
+  overflow: visible;
+}
+.login {
+  color: #ffffff;
+  text-align: left;
+  font: 600 32px "Inter-SemiBold", sans-serif;
+  position: absolute;
+  left: 673px;
+  top: 872px;
+}
+.be-nice-and-professional-training-center {
+  color: #000000;
+  text-align: left;
+  font: 600 96px "Inter-SemiBold", sans-serif;
+  position: absolute;
+  left: 131px;
+  top: 420px;
+  width: 1399px;
+  height: 236px;
+}
+.welcome-to {
+  color: #000000;
+  text-align: left;
+  font: 400 32px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 136px;
+  top: 389px;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font: 300 32px "Inter-Light", sans-serif;
+  position: absolute;
+  left: 777px;
+  top: 100px;
+  width: 110px;
+  height: 39px;
+}
+.courses {
+  color: #ffffff;
+  text-align: left;
+  font: 300 32px "Inter-Light", sans-serif;
+  position: absolute;
+  left: 1113px;
+  top: 100px;
+  width: 162px;
+  height: 46px;
+}
+.articles {
+  color: #ffffff;
+  text-align: left;
+  font: 300 32px "Inter-Light", sans-serif;
+  position: absolute;
+  left: 1294px;
+  top: 100px;
+  width: 163px;
+  height: 46px;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font: 300 32px "Inter-Light", sans-serif;
+  position: absolute;
+  left: 916px;
+  top: 100px;
+  width: 178px;
+  height: 39px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font: 300 32px "Inter-Light", sans-serif;
+  position: absolute;
+  left: 1476px;
+  top: 100px;
+  width: 224px;
+  height: 46px;
+}
+.bnp-logo-putih-1 {
+  width: 183px;
+  height: 157px;
+  position: absolute;
+  left: 180px;
+  top: 41px;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.25);
+}
+.group-1 {
+  width: 43px;
+  height: 31px;
+  position: static;
+}
+.rectangle-3 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 43px;
+  height: 7px;
+  position: absolute;
+  left: 1700px;
+  top: 104px;
+}
+.rectangle-4 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 43px;
+  height: 7px;
+  position: absolute;
+  left: 1700px;
+  top: 116px;
+}
+.rectangle-5 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 43px;
+  height: 7px;
+  position: absolute;
+  left: 1700px;
+  top: 128px;
+}
+.group-9 {
+  width: 1700px;
+  height: 459px;
+  position: static;
+}
+.group-7 {
+  width: 964px;
+  height: 275px;
+  position: static;
+}
+.trusted-by-students-and-tutors {
+  color: #000000;
+  text-align: left;
+  font: 600 96px "Inter-SemiBold", sans-serif;
+  position: absolute;
+  left: 111px;
+  top: 1858px;
+  width: 964px;
+  height: 236px;
+}
+.testimonials {
+  color: #000000;
+  text-align: left;
+  font: 400 32px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 111px;
+  top: 1819px;
+}
+.group-6 {
+  width: 636px;
+  height: 459px;
+  position: static;
+}
+.rectangle-8 {
+  background: #d9d9d9;
+  border-radius: 45px;
+  width: 636px;
+  height: 385px;
+  position: absolute;
+  left: 1175px;
+  top: 1836px;
+}
+.rectangle-9 {
+  background: #d9d9d9;
+  border-radius: 45px;
+  width: 175px;
+  height: 175px;
+  position: absolute;
+  left: 1210px;
+  top: 1762px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 1222px;
+  top: 1977px;
+  width: 541px;
+  height: 117px;
+}
+.nama-murid-tutors {
+  color: #000000;
+  text-align: left;
+  font: 400 32px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 1222px;
+  top: 2118px;
+}
+.photo {
+  color: #000000;
+  text-align: left;
+  font: 400 32px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 1253px;
+  top: 1830px;
+}
+.rectangle-7 {
+  background: #fa0402;
+  width: 1920px;
+  height: 585px;
+  position: absolute;
+  left: 0px;
+  top: 1080px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua2 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 131px;
+  top: 1369px;
+  width: 736px;
+  height: 65px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua3 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 1075px;
+  top: 1251px;
+  width: 736px;
+  height: 65px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua4 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 1075px;
+  top: 1369px;
+  width: 736px;
+  height: 65px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua5 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 1075px;
+  top: 1487px;
+  width: 736px;
+  height: 65px;
+}
+.kenapa-memilih {
+  color: #ffffff;
+  text-align: left;
+  font: 400 32px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 131px;
+  top: 1197px;
+}
+.alasan-1 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 32px "Inter-SemiBold", sans-serif;
+  position: absolute;
+  left: 1075px;
+  top: 1205px;
+}
+.alasan-2 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 32px "Inter-SemiBold", sans-serif;
+  position: absolute;
+  left: 1075px;
+  top: 1321px;
+}
+.alasan-3 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 32px "Inter-SemiBold", sans-serif;
+  position: absolute;
+  left: 1075px;
+  top: 1441px;
+}
+.bnp-training-center {
+  color: #ffffff;
+  text-align: left;
+  font: 600 64px "Inter-SemiBold", sans-serif;
+  position: absolute;
+  left: 131px;
+  top: 1264px;
+}
+.ellipse-1 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 1041px;
+  top: 1215px;
+}
+.ellipse-2 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 1041px;
+  top: 1331px;
+}
+.ellipse-3 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 1041px;
+  top: 1451px;
+}
+.rectangle-51 {
+  background: rgba(255, 25, 25, 0);
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #dc0000;
+  border-width: 1px;
+  width: 156px;
+  height: 88px;
+  position: absolute;
+  left: 744px;
+  top: 73px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
